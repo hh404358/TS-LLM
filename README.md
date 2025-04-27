@@ -48,10 +48,6 @@ Please refer to ```run_main.py```, ```run_m4.py``` and ```run_pretrain.py``` for
 
 
 
-**Authors**: Shiyu Wang, Jiawei Li, Xiaoming Shi, Zhou Ye, Baichuan Mo, Wenze Lin, Shengtong Ju, Zhixuan Chu, Ming Jin
-
-
-
 ## Acknowledgement
 Our implementation adapts [Time-LLM](https://github.com/KimMeen/Time-LLM) as the code base and have extensively modified it to our purposes. We thank the authors for sharing their implementations and related resources.
 "# TS-LLM" 
